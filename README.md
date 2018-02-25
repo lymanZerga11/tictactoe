@@ -3,7 +3,7 @@ Implemented a basic object-oriented version of a 2-player Tic-Tac-Toe Game for a
 
 To compile: Run `g++ main.cpp TicTacGame.cpp -std=c++11` 
 
-Todo:
+### Todo:
 - [x] Make it work for N number of boxes
 - [ ] Add tests
 - [ ] Add stronger exception catching
