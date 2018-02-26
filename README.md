@@ -5,7 +5,9 @@ To compile: Run `g++ main.cpp TicTacGame.cpp -std=c++11`
 
 ### Todo:
 - [x] Make it work for N number of boxes
+- [x] Terminate if all boxes filled and no winner
 - [ ] Add tests
+- [ ] Add menu for rematch
 - [ ] Add stronger exception catching
 
 Screen shot 
